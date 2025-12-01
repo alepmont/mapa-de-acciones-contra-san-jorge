@@ -36,7 +36,7 @@ body {
 
 .map-header {
     background: linear-gradient(135deg, var(--color-verde) 0%, #3ba858 100%);
-    padding: 12px 20px;
+    padding: 10px 20px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -212,17 +212,17 @@ body {
     
     /* Header del mapa en móvil */
     .map-header {
-        padding: 15px 10px;
+        padding: 10px;
         flex-direction: row;
         gap: 15px;
     }
     
     .header-logo-img {
-        height: 60px;
+        height: 69px;
     }
     
     .map-header h1 {
-        font-size: 18px;
+        font-size: 21px;
         letter-spacing: 1px;
         text-align: left;
     }
@@ -268,16 +268,16 @@ body {
 @media (max-width: 480px) {
     /* Header más compacto en pantallas pequeñas */
     .map-header {
-        padding: 10px 5px;
+        padding: 8px 5px;
         gap: 10px;
     }
     
     .header-logo-img {
-        height: 50px;
+        height: 58px;
     }
     
     .map-header h1 {
-        font-size: 14px;
+        font-size: 16px;
         text-align: left;
     }
     
