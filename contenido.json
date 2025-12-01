@@ -1,6 +1,8 @@
 [
   {
     "tipo": "noticia",
+    "imagen": "https://via.placeholder.com/300x200/1D3C78/ffffff?text=Resistencia",
+    "texto": "Mendoza: ¿qué se votó y cómo sigue la lucha en defensa del agua?",
     "link": "https://www.laizquierdadiario.com/Mendoza-que-se-voto-y-como-sigue-la-lucha-en-defensa-del-agua"
   },
   {
@@ -9,6 +11,8 @@
   },
   {
     "tipo": "noticia",
+    "imagen": "https://via.placeholder.com/300x200/51CE70/ffffff?text=Accion",
+    "texto": "Atención: el pueblo de Mendoza sale a la calle a defender el agua",
     "link": "https://www.laizquierdadiario.com/Atencion-el-pueblo-de-Mendoza-sale-a-la-calle-a-defender-el-agua"
   },
   {
@@ -17,6 +21,8 @@
   },
   {
     "tipo": "noticia",
+    "imagen": "https://via.placeholder.com/300x200/a1344e/ffffff?text=Arte",
+    "texto": "Mendoza: el arte se expresa en las paredes a pesar de todo",
     "link": "https://www.laizquierdadiario.com/Mendoza-el-arte-se-expresa-en-las-paredes-a-pesar-de-todo"
   }
 ]
