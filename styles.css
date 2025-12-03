@@ -104,6 +104,31 @@ body {
     border-left: 2px solid var(--color-azul);
 }
 
+.add-action-button {
+    display: block;
+    width: 100%;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    background: linear-gradient(135deg, var(--color-verde) 0%, #3ba858 100%);
+    color: #ffffff;
+    text-align: center;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1.5px;
+    border-radius: 5px;
+    border: 2px solid var(--color-azul);
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+    transition: all 0.3s ease;
+    text-transform: uppercase;
+}
+
+.add-action-button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(81, 206, 112, 0.5);
+    background: linear-gradient(135deg, #3ba858 0%, var(--color-verde) 100%);
+}
+
 .sidebar-right h3 {
     font-size: 24px;
     font-weight: bold;
