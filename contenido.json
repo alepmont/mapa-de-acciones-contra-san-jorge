@@ -2,6 +2,22 @@
   {
     "tipo": "noticia",
     "imagen": "https://via.placeholder.com/300x200/1D3C78/ffffff?text=Resistencia",
+    "texto": "El agua de Mendoza no se negocia. Multitudinaria movilización en Mendoza contra el proyecto San Jorge",
+    "link": "https://www.laizquierdadiario.com/Multitudinaria-movilizacion-en-Mendoza-contra-el-proyecto-San-Jorge"
+  },
+  {
+    "tipo": "instagram",
+    "url": "https://www.instagram.com/p/DRyYl_djBcc/"
+  },
+  {
+    "tipo": "noticia",
+    "imagen": "https://via.placeholder.com/300x200/1D3C78/ffffff?text=Resistencia",
+    "texto": "Mendoza. Tunuyán en pie: el pueblo volvió a la calle para decirle NO a la megaminería",
+    "link": "https://www.laizquierdadiario.com/Tunuyan-en-pie-el-pueblo-volvio-a-la-calle-para-decirle-NO-a-la-megamineria"
+  },  
+  {
+    "tipo": "noticia",
+    "imagen": "https://via.placeholder.com/300x200/1D3C78/ffffff?text=Resistencia",
     "texto": "Mendoza: ¿qué se votó y cómo sigue la lucha en defensa del agua?",
     "link": "https://www.laizquierdadiario.com/Mendoza-que-se-voto-y-como-sigue-la-lucha-en-defensa-del-agua"
   },
